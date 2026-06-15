@@ -105,4 +105,4 @@ Contributions are welcome from developers, students, and blockchain enthusiasts.
 This project is licensed under the MIT License.
 
 ### Contract Detail
-ID: CARGXVXDLDGUAW3H5CAKZXIURM64TNPXMVZGG6EZOHPVXHUGZNBLWGQH
+ID: CA6XHEX7YWP75JV4JOIKOBX5OITVHUXGNLJ67DKL6UM473WOWD7TJZFQ
